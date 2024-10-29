@@ -18,3 +18,4 @@ System.register("chunks:///_virtual/weapon",[],(function(){"use strict";return{e
     };
     });
 });
+//# sourceMappingURL=index.js.map

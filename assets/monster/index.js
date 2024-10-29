@@ -18,3 +18,4 @@ System.register("chunks:///_virtual/monster",[],(function(){"use strict";return{
     };
     });
 });
+//# sourceMappingURL=index.js.map
