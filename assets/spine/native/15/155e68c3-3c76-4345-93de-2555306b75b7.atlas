@@ -1,0 +1,188 @@
+
+sl.png
+size: 1596,648
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gg
+  rotate: false
+  xy: 468, 188
+  size: 360, 458
+  orig: 360, 500
+  offset: 0, 42
+  index: -1
+gga1
+  rotate: true
+  xy: 13, 118
+  size: 528, 226
+  orig: 568, 294
+  offset: 39, 32
+  index: -1
+gga2
+  rotate: true
+  xy: 241, 163
+  size: 483, 225
+  orig: 485, 294
+  offset: 1, 33
+  index: -1
+mmm
+  rotate: false
+  xy: 1262, 288
+  size: 332, 172
+  orig: 332, 174
+  offset: 0, 1
+  index: -1
+qqq0
+  rotate: true
+  xy: 333, 23
+  size: 138, 110
+  orig: 140, 111
+  offset: 1, 0
+  index: -1
+qqq1
+  rotate: true
+  xy: 445, 23
+  size: 138, 110
+  orig: 140, 111
+  offset: 1, 0
+  index: -1
+qqq3
+  rotate: true
+  xy: 1475, 148
+  size: 138, 110
+  orig: 140, 111
+  offset: 1, 0
+  index: -1
+qqq4
+  rotate: true
+  xy: 1475, 8
+  size: 138, 110
+  orig: 140, 111
+  offset: 1, 0
+  index: -1
+sdf
+  rotate: false
+  xy: 1038, 238
+  size: 222, 222
+  orig: 222, 222
+  offset: 0, 0
+  index: -1
+sj
+  rotate: false
+  xy: 13, 43
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+sl
+  rotate: false
+  xy: 57, 2
+  size: 274, 114
+  orig: 276, 116
+  offset: 1, 1
+  index: -1
+sl_@@en
+  rotate: true
+  xy: 830, 212
+  size: 248, 91
+  orig: 276, 116
+  offset: 13, 14
+  index: -1
+sl_@@zh_TW
+  rotate: true
+  xy: 923, 224
+  size: 236, 113
+  orig: 276, 116
+  offset: 20, 0
+  index: -1
+ssd
+  rotate: false
+  xy: 1279, 30
+  size: 194, 194
+  orig: 194, 194
+  offset: 0, 0
+  index: -1
+x1
+  rotate: true
+  xy: 13, 76
+  size: 40, 41
+  orig: 46, 47
+  offset: 3, 3
+  index: -1
+x2
+  rotate: false
+  xy: 2, 2
+  size: 8, 4
+  orig: 14, 14
+  offset: 3, 5
+  index: -1
+x3
+  rotate: true
+  xy: 46, 67
+  size: 7, 8
+  orig: 9, 10
+  offset: 1, 1
+  index: -1
+x4
+  rotate: false
+  xy: 12, 3
+  size: 43, 3
+  orig: 62, 15
+  offset: 10, 6
+  index: -1
+xing1
+  rotate: false
+  xy: 1262, 226
+  size: 57, 60
+  orig: 70, 65
+  offset: 7, 3
+  index: -1
+xx
+  rotate: false
+  xy: 557, 2
+  size: 720, 184
+  orig: 720, 184
+  offset: 0, 0
+  index: -1
+zx1
+  rotate: true
+  xy: 13, 26
+  size: 15, 14
+  orig: 17, 16
+  offset: 1, 1
+  index: -1
+zx2
+  rotate: true
+  xy: 13, 9
+  size: 15, 14
+  orig: 17, 16
+  offset: 1, 1
+  index: -1
+zx3
+  rotate: false
+  xy: 29, 27
+  size: 15, 14
+  orig: 17, 16
+  offset: 1, 1
+  index: -1
+zx4
+  rotate: true
+  xy: 29, 10
+  size: 15, 14
+  orig: 17, 16
+  offset: 1, 1
+  index: -1
+图层 2073
+  rotate: true
+  xy: 2, 8
+  size: 638, 9
+  orig: 640, 12
+  offset: 1, 2
+  index: -1
+组 86
+  rotate: false
+  xy: 830, 462
+  size: 720, 184
+  orig: 722, 186
+  offset: 1, 1
+  index: -1

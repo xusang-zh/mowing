@@ -1,0 +1,734 @@
+
+mhjm.png
+size: 2033,1731
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+33/AWSL___
+  rotate: false
+  xy: 1248, 22
+  size: 114, 25
+  orig: 114, 25
+  offset: 0, 0
+  index: -1
+33/qqwa
+  rotate: false
+  xy: 1666, 75
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+33/sz2
+  rotate: false
+  xy: 521, 924
+  size: 305, 306
+  orig: 335, 332
+  offset: 16, 14
+  index: -1
+33/sz22
+  rotate: false
+  xy: 828, 925
+  size: 305, 305
+  orig: 335, 332
+  offset: 16, 14
+  index: -1
+33/xz1
+  rotate: false
+  xy: 407, 404
+  size: 296, 296
+  orig: 316, 316
+  offset: 9, 11
+  index: -1
+33/xz11
+  rotate: false
+  xy: 705, 292
+  size: 296, 296
+  orig: 316, 316
+  offset: 9, 11
+  index: -1
+33/zdg2
+  rotate: false
+  xy: 1792, 1056
+  size: 198, 206
+  orig: 218, 220
+  offset: 9, 8
+  index: -1
+33/zdingg
+  rotate: false
+  xy: 671, 63
+  size: 227, 227
+  orig: 240, 266
+  offset: 2, 20
+  index: -1
+33/zdingg2
+  rotate: false
+  xy: 1139, 49
+  size: 227, 227
+  orig: 240, 266
+  offset: 2, 20
+  index: -1
+33/zs1
+  rotate: true
+  xy: 1898, 311
+  size: 85, 84
+  orig: 94, 94
+  offset: 4, 5
+  index: -1
+33/zs11
+  rotate: false
+  xy: 1819, 308
+  size: 77, 77
+  orig: 86, 86
+  offset: 4, 4
+  index: -1
+33/zs2
+  rotate: false
+  xy: 1959, 249
+  size: 59, 60
+  orig: 62, 63
+  offset: 1, 1
+  index: -1
+33/zs22
+  rotate: true
+  xy: 1959, 189
+  size: 58, 60
+  orig: 62, 63
+  offset: 2, 1
+  index: -1
+33/zs3
+  rotate: false
+  xy: 1934, 85
+  size: 48, 48
+  orig: 52, 52
+  offset: 2, 2
+  index: -1
+33/zs33
+  rotate: true
+  xy: 1477, 278
+  size: 48, 49
+  orig: 52, 51
+  offset: 2, 1
+  index: -1
+33/zs4
+  rotate: false
+  xy: 467, 1179
+  size: 51, 51
+  orig: 56, 56
+  offset: 2, 2
+  index: -1
+33/zs44
+  rotate: false
+  xy: 1736, 886
+  size: 54, 54
+  orig: 60, 59
+  offset: 3, 3
+  index: -1
+33/zw1
+  rotate: false
+  xy: 1003, 278
+  size: 235, 235
+  orig: 235, 235
+  offset: 0, 0
+  index: -1
+33/zw11
+  rotate: false
+  xy: 1368, 75
+  size: 201, 201
+  orig: 201, 201
+  offset: 0, 0
+  index: -1
+33/zw2
+  rotate: false
+  xy: 1792, 853
+  size: 201, 201
+  orig: 201, 201
+  offset: 0, 0
+  index: -1
+33/zw22
+  rotate: false
+  xy: 1240, 278
+  size: 235, 235
+  orig: 235, 235
+  offset: 0, 0
+  index: -1
+33/嘿嘿，终于抽到了
+  rotate: false
+  xy: 671, 28
+  size: 263, 33
+  orig: 263, 33
+  offset: 0, 0
+  index: -1
+33/嘿嘿，终于抽到了_@@en
+  rotate: true
+  xy: 1956, 667
+  size: 184, 29
+  orig: 263, 33
+  offset: 38, 0
+  index: -1
+33/嘿嘿，终于抽到了_@@zh_TW
+  rotate: true
+  xy: 2001, 1478
+  size: 251, 30
+  orig: 263, 33
+  offset: 4, 1
+  index: -1
+33/太可了！
+  rotate: true
+  xy: 667, 292
+  size: 110, 32
+  orig: 110, 32
+  offset: 0, 0
+  index: -1
+33/太可了！_@@en
+  rotate: false
+  xy: 671, 2
+  size: 98, 24
+  orig: 110, 32
+  offset: 7, 4
+  index: -1
+33/太帅了！
+  rotate: false
+  xy: 1135, 14
+  size: 111, 33
+  orig: 111, 33
+  offset: 0, 0
+  index: -1
+33/太帅了！_@@en
+  rotate: false
+  xy: 771, 6
+  size: 103, 20
+  orig: 111, 33
+  offset: 3, 6
+  index: -1
+33/太帅了！_@@zh_TW
+  rotate: true
+  xy: 1930, 216
+  size: 93, 27
+  orig: 111, 33
+  offset: 9, 3
+  index: -1
+33/好棒好棒
+  rotate: true
+  xy: 1992, 1069
+  size: 131, 32
+  orig: 131, 32
+  offset: 0, 0
+  index: -1
+33/好棒好棒_@@en
+  rotate: false
+  xy: 1660, 43
+  size: 99, 30
+  orig: 131, 32
+  offset: 16, 2
+  index: -1
+33/好酷
+  rotate: false
+  xy: 302, 2
+  size: 65, 32
+  orig: 65, 32
+  offset: 0, 0
+  index: -1
+33/好酷_@@en
+  rotate: true
+  xy: 1096, 542
+  size: 60, 23
+  orig: 65, 32
+  offset: 2, 5
+  index: -1
+33/恭喜获得_ 拷贝
+  rotate: false
+  xy: 2, 65
+  size: 411, 86
+  orig: 411, 86
+  offset: 0, 0
+  index: -1
+33/恭喜获得_@@en
+  rotate: true
+  xy: 1654, 858
+  size: 372, 80
+  orig: 411, 86
+  offset: 14, 0
+  index: -1
+33/恭喜获得_@@zh_TW
+  rotate: true
+  xy: 1566, 857
+  size: 373, 86
+  orig: 411, 86
+  offset: 16, 0
+  index: -1
+33/我喜欢这个
+  rotate: false
+  xy: 1866, 536
+  size: 165, 32
+  orig: 165, 32
+  offset: 0, 0
+  index: -1
+33/我喜欢这个_@@en
+  rotate: false
+  xy: 364, 705
+  size: 127, 25
+  orig: 165, 32
+  offset: 19, 5
+  index: -1
+33/我喜欢这个_@@zh_TW
+  rotate: false
+  xy: 1699, 525
+  size: 146, 29
+  orig: 165, 32
+  offset: 11, 2
+  index: -1
+33/我好喜欢这个哈哈哈
+  rotate: false
+  xy: 2, 2
+  size: 298, 32
+  orig: 298, 32
+  offset: 0, 0
+  index: -1
+33/我好喜欢这个哈哈哈_@@en
+  rotate: true
+  xy: 2001, 1202
+  size: 274, 29
+  orig: 298, 32
+  offset: 12, 0
+  index: -1
+33/我好喜欢这个哈哈哈_@@zh_TW
+  rotate: false
+  xy: 1368, 44
+  size: 290, 29
+  orig: 298, 32
+  offset: 5, 1
+  index: -1
+c1
+  rotate: false
+  xy: 1985, 145
+  size: 41, 42
+  orig: 47, 48
+  offset: 3, 3
+  index: -1
+c7
+  rotate: false
+  xy: 1985, 145
+  size: 41, 42
+  orig: 47, 48
+  offset: 3, 3
+  index: -1
+c11
+  rotate: true
+  xy: 1848, 29
+  size: 66, 68
+  orig: 73, 76
+  offset: 3, 4
+  index: -1
+c2
+  rotate: true
+  xy: 1528, 283
+  size: 43, 41
+  orig: 47, 46
+  offset: 2, 3
+  index: -1
+c3
+  rotate: false
+  xy: 364, 660
+  size: 41, 43
+  orig: 47, 49
+  offset: 3, 3
+  index: -1
+c4
+  rotate: false
+  xy: 364, 660
+  size: 41, 43
+  orig: 47, 49
+  offset: 3, 3
+  index: -1
+c5
+  rotate: false
+  xy: 1934, 135
+  size: 49, 51
+  orig: 54, 58
+  offset: 3, 3
+  index: -1
+c6
+  rotate: true
+  xy: 1003, 515
+  size: 87, 91
+  orig: 96, 101
+  offset: 4, 5
+  index: -1
+c8
+  rotate: true
+  xy: 1065, 3
+  size: 66, 68
+  orig: 73, 76
+  offset: 3, 4
+  index: -1
+c9
+  rotate: false
+  xy: 1848, 97
+  size: 84, 89
+  orig: 93, 99
+  offset: 5, 5
+  index: -1
+c10
+  rotate: false
+  xy: 1848, 97
+  size: 84, 89
+  orig: 93, 99
+  offset: 5, 5
+  index: -1
+d1
+  rotate: true
+  xy: 2, 153
+  size: 471, 403
+  orig: 474, 405
+  offset: 2, 1
+  index: -1
+d2
+  rotate: false
+  xy: 2, 1177
+  size: 463, 552
+  orig: 466, 556
+  offset: 2, 2
+  index: -1
+d886
+  rotate: false
+  xy: 467, 1232
+  size: 403, 497
+  orig: 403, 497
+  offset: 0, 0
+  index: -1
+dada
+  rotate: true
+  xy: 1847, 1264
+  size: 465, 152
+  orig: 469, 158
+  offset: 2, 3
+  index: -1
+dafff
+  rotate: false
+  xy: 2, 36
+  size: 322, 27
+  orig: 322, 27
+  offset: 0, 0
+  index: -1
+fsfgbg
+  rotate: false
+  xy: 872, 1232
+  size: 403, 497
+  orig: 403, 497
+  offset: 0, 0
+  index: -1
+mh
+  rotate: true
+  xy: 521, 702
+  size: 220, 339
+  orig: 220, 339
+  offset: 0, 0
+  index: -1
+mh2
+  rotate: true
+  xy: 415, 20
+  size: 164, 254
+  orig: 164, 254
+  offset: 0, 0
+  index: -1
+mhd2
+  rotate: true
+  xy: 1129, 515
+  size: 218, 336
+  orig: 218, 336
+  offset: 0, 0
+  index: -1
+mhj
+  rotate: false
+  xy: 1666, 177
+  size: 83, 128
+  orig: 83, 128
+  offset: 0, 0
+  index: -1
+mhj2
+  rotate: false
+  xy: 1560, 699
+  size: 111, 156
+  orig: 112, 158
+  offset: 1, 1
+  index: -1
+mhjfsf
+  rotate: false
+  xy: 1569, 360
+  size: 110, 168
+  orig: 110, 168
+  offset: 0, 0
+  index: -1
+ptmh2
+  rotate: true
+  xy: 705, 590
+  size: 110, 155
+  orig: 112, 157
+  offset: 1, 1
+  index: -1
+quaan
+  rotate: true
+  xy: 1866, 570
+  size: 95, 165
+  orig: 97, 167
+  offset: 1, 1
+  index: -1
+sx/Hero_Skill_24_1
+  rotate: false
+  xy: 1681, 387
+  size: 93, 136
+  orig: 100, 146
+  offset: 3, 5
+  index: -1
+sx/Hero_Skill_24_10
+  rotate: false
+  xy: 1571, 93
+  size: 93, 127
+  orig: 100, 146
+  offset: 3, 14
+  index: -1
+sx/Hero_Skill_24_2
+  rotate: false
+  xy: 1952, 416
+  size: 79, 118
+  orig: 100, 146
+  offset: 17, 14
+  index: -1
+sx/Hero_Skill_24_3
+  rotate: false
+  xy: 1776, 387
+  size: 79, 136
+  orig: 100, 146
+  offset: 17, 5
+  index: -1
+sx/Hero_Skill_24_4
+  rotate: true
+  xy: 936, 5
+  size: 64, 127
+  orig: 100, 146
+  offset: 17, 5
+  index: -1
+sx/Hero_Skill_24_5
+  rotate: true
+  xy: 1681, 307
+  size: 78, 136
+  orig: 100, 146
+  offset: 3, 5
+  index: -1
+sx/Hero_Skill_24_6
+  rotate: false
+  xy: 1768, 58
+  size: 78, 118
+  orig: 100, 146
+  offset: 3, 14
+  index: -1
+sx/Hero_Skill_24_7
+  rotate: false
+  xy: 1857, 398
+  size: 93, 136
+  orig: 100, 146
+  offset: 3, 5
+  index: -1
+sx/Hero_Skill_24_8
+  rotate: false
+  xy: 1835, 188
+  size: 93, 118
+  orig: 100, 146
+  offset: 3, 14
+  index: -1
+sx/Hero_Skill_24_9
+  rotate: false
+  xy: 1571, 222
+  size: 93, 136
+  orig: 100, 146
+  offset: 3, 5
+  index: -1
+x1
+  rotate: false
+  xy: 876, 2
+  size: 24, 24
+  orig: 30, 29
+  offset: 3, 2
+  index: -1
+x2
+  rotate: false
+  xy: 876, 2
+  size: 24, 24
+  orig: 30, 29
+  offset: 3, 2
+  index: -1
+x3
+  rotate: false
+  xy: 876, 2
+  size: 24, 24
+  orig: 30, 29
+  offset: 3, 2
+  index: -1
+x4
+  rotate: false
+  xy: 876, 2
+  size: 24, 24
+  orig: 30, 29
+  offset: 3, 2
+  index: -1
+x5
+  rotate: false
+  xy: 876, 2
+  size: 24, 24
+  orig: 30, 29
+  offset: 3, 2
+  index: -1
+x6
+  rotate: true
+  xy: 1930, 188
+  size: 26, 27
+  orig: 31, 33
+  offset: 3, 3
+  index: -1
+x7
+  rotate: false
+  xy: 902, 2
+  size: 24, 24
+  orig: 30, 29
+  offset: 3, 3
+  index: -1
+主角1
+  rotate: false
+  xy: 1550, 530
+  size: 147, 167
+  orig: 154, 172
+  offset: 4, 2
+  index: -1
+取货口
+  rotate: true
+  xy: 407, 186
+  size: 216, 258
+  orig: 220, 290
+  offset: 2, 30
+  index: -1
+图层 0
+  rotate: false
+  xy: 2, 626
+  size: 360, 549
+  orig: 360, 549
+  offset: 0, 0
+  index: -1
+投币
+  rotate: true
+  xy: 1477, 328
+  size: 188, 90
+  orig: 190, 92
+  offset: 1, 1
+  index: -1
+投币_@@en
+  rotate: false
+  xy: 1768, 761
+  size: 186, 90
+  orig: 190, 92
+  offset: 1, 1
+  index: -1
+投币_@@zh_TW
+  rotate: false
+  xy: 1768, 669
+  size: 186, 90
+  orig: 190, 92
+  offset: 1, 1
+  index: -1
+抽奖底
+  rotate: true
+  xy: 1681, 1265
+  size: 464, 164
+  orig: 466, 166
+  offset: 1, 1
+  index: -1
+拉杆
+  rotate: true
+  xy: 364, 732
+  size: 443, 155
+  orig: 445, 157
+  offset: 1, 1
+  index: -1
+撕条
+  rotate: true
+  xy: 1736, 942
+  size: 321, 26
+  orig: 321, 26
+  offset: 0, 0
+  index: -1
+普通盲盒 拷贝
+  rotate: false
+  xy: 1751, 178
+  size: 82, 127
+  orig: 84, 129
+  offset: 1, 1
+  index: -1
+普通盲盒 拷贝 7
+  rotate: true
+  xy: 1699, 556
+  size: 111, 165
+  orig: 113, 167
+  offset: 1, 1
+  index: -1
+矩形 3674
+  rotate: true
+  xy: 1764, 942
+  size: 321, 26
+  orig: 323, 28
+  offset: 1, 1
+  index: -1
+组 529 拷贝 2
+  rotate: false
+  xy: 1277, 1232
+  size: 402, 497
+  orig: 404, 499
+  offset: 1, 1
+  index: -1
+组 530
+  rotate: true
+  xy: 900, 71
+  size: 205, 237
+  orig: 208, 239
+  offset: 1, 1
+  index: -1
+组 534
+  rotate: false
+  xy: 862, 604
+  size: 265, 319
+  orig: 278, 333
+  offset: 12, 2
+  index: -1
+组 552
+  rotate: false
+  xy: 1129, 735
+  size: 429, 163
+  orig: 431, 166
+  offset: 1, 1
+  index: -1
+组 553
+  rotate: true
+  xy: 1467, 518
+  size: 215, 81
+  orig: 217, 83
+  offset: 1, 1
+  index: -1
+组-552_en
+  rotate: false
+  xy: 1135, 900
+  size: 429, 164
+  orig: 431, 166
+  offset: 1, 1
+  index: -1
+组-552_zh_TW
+  rotate: false
+  xy: 1135, 1066
+  size: 429, 164
+  orig: 431, 166
+  offset: 1, 1
+  index: -1
+金币2
+  rotate: true
+  xy: 1673, 704
+  size: 152, 93
+  orig: 154, 95
+  offset: 1, 1
+  index: -1
